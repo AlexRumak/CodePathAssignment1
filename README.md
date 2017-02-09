@@ -10,19 +10,19 @@ Time spent: 8 hours spent in total
 
 The following required functionality is complete:
 
-* Create a Users Table.
-* Create a Page with an HTML form.
-* Detect when the form is submitted.
-[] Validate form data.
-[] Display form errors if any validationsfail.
-[] Submit successfully-validated form values to the database
-[] Redirect the user to a confirmation page.
-[] Sanitize all dynamic output for HTML.
+* [*] Create a Users Table.
+* [*] Create a Page with an HTML form.
+* [*] Detect when the form is submitted.
+* [*] Validate form data.
+* [*] Display form errors if any validationsfail.
+* [*] Submit successfully-validated form values to the database
+* [*] Redirect the user to a confirmation page.
+* [*] Sanitize all dynamic output for HTML.
 
 The following optional features are implemented:
 
-[]Add support for custom tip percentage
-[]Add support for splitting the tip and total
+* [ ] Add support for custom tip percentage
+* [ ] Add support for splitting the tip and total
 
 
 ##User Story walkthrough:
