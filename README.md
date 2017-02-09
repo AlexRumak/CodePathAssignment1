@@ -14,7 +14,7 @@ The following required functionality is complete:
 [] Create a Page with an HTML form.
 [] Detect when the form is submitted.
 [] Validate form data.
-[] Display form errors if any validations fail.
+[] Display form errors if any validationsfail.
 [] Submit successfully-validated form values to the database
 [] Redirect the user to a confirmation page.
 [] Sanitize all dynamic output for HTML.
