@@ -1,14 +1,30 @@
 # CodePathWeek1
 Web Security Assignment 1
+Basic form validation for Web Security
 
-How many hours did it take to complete? 
+Submitted by: Alexander Rumak
 
-The project took me 8 hours to complete.
+Time spent: 8 hours spent in total
 
-Which required and optional stories have you completed? 
+User Stories Implemented:
 
-I have completed all of the required stories.
+The following required functionality is complete:
 
-I do not know how to upload the User Stories in gif format. They are in the User Stories folder in the repo.
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt text](https://github.com/AlexanderRumak/CodePathWeek1/User Stories/recording_eight.gif)
+[*] Create a Users Table.
+[*] Create a Page with an HTML form.
+[*] Detect when the form is submitted.
+[*] Validate form data.
+[*] Display form errors if any validations fail.
+[*] Submit successfully-validated form values to the database
+[*] Redirect the user to a confirmation page.
+[*] Sanitize all dynamic output for HTML.
+
+The following optional features are implemented:
+
+[]Add support for custom tip percentage
+[]Add support for splitting the tip and total
+
+
+User Story walkthrough:
+[[https://github.com/AlexanderRumak/CodePathWeek1/blob/master/User%20Stories/FINALTAKE.gif]]
+
