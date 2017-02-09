@@ -6,7 +6,7 @@ Submitted by: Alexander Rumak
 
 Time spent: 8 hours spent in total
 
-User Stories Implemented:
+#User Stories Implemented:
 
 The following required functionality is complete:
 
@@ -25,6 +25,6 @@ The following optional features are implemented:
 []Add support for splitting the tip and total
 
 
-User Story walkthrough:
-[[https://github.com/AlexanderRumak/CodePathWeek1/blob/master/User%20Stories/FINALTAKE.gif]]
+#User Story walkthrough:
+[https://github.com/AlexanderRumak/CodePathWeek1/blob/master/User%20Stories/FINALTAKE.gif]
 
