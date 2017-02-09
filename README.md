@@ -6,14 +6,14 @@ Submitted by: Alexander Rumak
 
 Time spent: 8 hours spent in total
 
-#User Stories Implemented:
+##User Stories Implemented:
 
 The following required functionality is complete:
 
-[] Create a Users Table.\n
-[] Create a Page with an HTML form.\n
-[] Detect when the form is submitted.\n
-[] Validate form data.\n
+* Create a Users Table.
+* Create a Page with an HTML form.
+* Detect when the form is submitted.
+[] Validate form data.
 [] Display form errors if any validationsfail.
 [] Submit successfully-validated form values to the database
 [] Redirect the user to a confirmation page.
@@ -25,6 +25,7 @@ The following optional features are implemented:
 []Add support for splitting the tip and total
 
 
-#User Story walkthrough:
+##User Story walkthrough:
+<img src='https://github.com/AlexanderRumak/CodePathWeek1/blob/master/User%20Stories/FINALTAKE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [https://github.com/AlexanderRumak/CodePathWeek1/blob/master/User%20Stories/FINALTAKE.gif]
 
